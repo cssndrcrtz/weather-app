@@ -204,7 +204,7 @@ const App = () => {
                     <p className="mt-1 font-semibold text-base sm:text-lg text-white">
                       {label}
                     </p>
-                    <p className="text-xs sm:text-sm text-center text-gray-200">
+                    <p className="text-sm sm:text-sm text-center text-gray-200">
                       {value}
                     </p>
                   </div>
